@@ -26,7 +26,7 @@ useEffect(() => {
   {
     fetchData();
   }
-}, [id]);
+}, []);
 async function  fetchData()
   {
     setisLoading(true);
