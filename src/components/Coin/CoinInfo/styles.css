@@ -1,0 +1,20 @@
+.info-component
+{
+    height: 100%;
+}
+.info-heading {
+    font-size: 1.2rem;
+    padding: 1rem 0.5rem!important;
+  }
+.info-p{
+    padding-bottom: 0.5rem;
+}
+  
+  .info-p a {
+    text-decoration: underline;
+  }
+  
+  .info-p a:hover {
+    color: var(--blue) !important;
+    transition: all 0.3s;
+  }

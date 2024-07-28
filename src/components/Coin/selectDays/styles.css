@@ -1,0 +1,7 @@
+.select-days
+{
+    display: flex !important;
+    justify-content: flex-start;
+    align-items: center;
+    gap:0.75rem;
+}
